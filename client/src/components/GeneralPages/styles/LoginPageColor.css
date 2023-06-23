@@ -1,0 +1,10 @@
+.bg-color {
+  min-height: 100vh;
+  background: linear-gradient(
+    to right,
+    pink 0%,
+    pink 50%,
+    paleturquoise 50%,
+    paleturquoise 100%
+  );
+}
